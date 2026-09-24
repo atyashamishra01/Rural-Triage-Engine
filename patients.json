@@ -1,0 +1,21 @@
+[
+  {
+    "patient_id": 1,
+    "name": "VIV",
+    "age": 20,
+    "gender": "Male",
+    "contact": "9905649662",
+    "temperature": 38.0,
+    "systolic_bp": 70,
+    "heart_rate": 80,
+    "respiratory_rate": 67,
+    "spo2": 89,
+    "consciousness": "Unresponsive",
+    "symptoms": [],
+    "notes": "NO",
+    "arrival_time": "2026-09-21 12:52:41",
+    "score": 12,
+    "category": "Critical",
+    "status": "In Treatment"
+  }
+]
